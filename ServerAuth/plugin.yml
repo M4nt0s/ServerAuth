@@ -1,7 +1,7 @@
 name: ServerAuth
 main: ServerAuth\ServerAuth
-version: "2.13"
-api: [1.14.0]
+version: "2.14"
+api: [3.0.0-ALPHA1]
 load: STARTUP
 author: EvolSoft
 description: The most advanced authentication plugin for PocketMine-MP
